@@ -1,5 +1,5 @@
 
-``` {r, echo=FALSE}
+``` {r, echo=FALSE, message=FALSE}
     
   # *** Excercise-2 ***
   library(plotly)
